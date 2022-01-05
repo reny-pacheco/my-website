@@ -33,13 +33,13 @@ export const techs = [
 export const projects = [
   {
     title: "My Portfolio Website",
-    link: "https://github.com/reny-pacheco/web-scraper",
+    link: "https://github.com/reny-pacheco/my-website",
     description:
       "My personal portfolio website created using ReactJS, Tailwind CSS.",
   },
   {
     title: "Web Scraper",
-    link: "https://github.com/reny-pacheco/my-website",
+    link: "https://github.com/reny-pacheco/web-scraper",
     description:
       "Simple web scraper using Python, Object Oriented Programming and using openpyxl library for saving the data to Excel Spreadsheet and csv module for saving data to csv.",
   },
